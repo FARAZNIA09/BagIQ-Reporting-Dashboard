@@ -14,5 +14,5 @@ This project is a Power BI dashboard integrated with SQL Server for live monitor
 
 ## Screenshots
 
-![Dashboard Screenshot](![Live-Airport-Baggage-Discharge-Monitoring-Dashboard/Screenshot 2025-08-19 110137.png]([https://github.com/user-attachments/assets/c8c489d6-07c8-4b70-8004-d609f5eb78ec](https://github.com/FARAZNIA09/Live-Airport-Baggage-Discharge-Monitoring-Dashboard/blob/main/Live-Airport-Baggage-Discharge-Monitoring-Dashboard/Screenshot%202025-08-19%20110137.png))
+![Dashboard Screenshot](![Live-Airport-Baggage-Discharge-Monitoring-Dashboard/Screenshot 2025-08-19 110137.png]([https://github.com/user-attachments/assets/c8c489d6-07c8-4b70-8004-d609f5eb78ec](Screenshot 2025-08-19 110137.png))
 )
