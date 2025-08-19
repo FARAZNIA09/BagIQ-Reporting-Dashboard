@@ -13,4 +13,4 @@ This project is a Power BI dashboard integrated with SQL Server for live monitor
 3. Explore live monitoring visuals  
 
 ## Screenshots
-![Dashboard Screenshot]("C:\Users\Admin\Desktop\Project34\Live-Airport-Baggage-Discharge-Monitoring-Dashboard\Screenshot 2025-08-19 110137.png")
+![Dashboard Screenshot](Screenshot 2025-08-19 110137.png)
